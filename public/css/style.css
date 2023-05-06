@@ -234,3 +234,9 @@ form {
     width: 75%;
     margin: 0 auto;
 }
+
+.chat-container {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
